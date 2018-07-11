@@ -4,6 +4,3 @@ C:\x_Git\GitExample\GitExample\bin\Debug\GitExample.pdb
 C:\x_Git\GitExample\GitExample\obj\Debug\GitExample.csprojResolveAssemblyReference.cache
 C:\x_Git\GitExample\GitExample\obj\Debug\GitExample.exe
 C:\x_Git\GitExample\GitExample\obj\Debug\GitExample.pdb
-D:\git by mamun sir\Client\EF-Example\GitExample\bin\Debug\GitExample.exe.config
-D:\git by mamun sir\Client\EF-Example\GitExample\obj\Debug\GitExample.exe
-D:\git by mamun sir\Client\EF-Example\GitExample\obj\Debug\GitExample.pdb
