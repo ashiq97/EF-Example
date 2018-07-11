@@ -10,7 +10,8 @@ namespace GitExample
     {
         static void Main(string[] args)
         {
-
+            var student = new Student();
+            Console.WriteLine("New Student Instance Created.");
         }
     }
 }
